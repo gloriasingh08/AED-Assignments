@@ -11,8 +11,7 @@ public class guiFirst {
     public static void main(String args[])
     {
         new menuPage().setVisible(true);
-
-        
+        //this will display our first page        
       
     }
     
