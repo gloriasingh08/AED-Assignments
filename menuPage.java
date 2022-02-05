@@ -16,6 +16,7 @@ public class menuPage extends javax.swing.JFrame {
     public menuPage() {
         initComponents();
     }
+    
 
     /**
      * This method is called from within the constructor to initialize the form.

@@ -12,6 +12,7 @@ import java.io.*;
 public class addCar implements Serializable
         
 {
+    
     private static final long serialVersionUID= -897626244093472561L;
     private String brand;
     private String model;
